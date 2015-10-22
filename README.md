@@ -1,4 +1,4 @@
-Hop Weather
+Publisher Transentry
 ==================
 
 This plugin adds handy tags for Publisher add-on.
